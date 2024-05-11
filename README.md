@@ -19,21 +19,11 @@ Welcome to my vibrant portfolio, where creativity meets functionality.
 
 ---
 
-
-
 ## 📞 Contact
 
 For inquiries or collaboration opportunities, reach me via:
 - Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com) 📧
 - LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ ) 🌐
-## Contact 📞
-
-For inquiries, collaborations, or just to say hi, you can reach me via:
-- Email: [your.email@example.com](mailto:your.email@example.com) 📧
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername) 🌐
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-Thank you for visiting my portfolio! Let's create something amazing together! 🌟
 
 
 ### ✨ Features
@@ -51,27 +41,23 @@ Thank you for visiting my portfolio! Let's create something amazing together! �
 
 ## 📦 Usage
 
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the development server:
+2. Start the development server:
    ```bash
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🚀 Deployment
-
-Deploy this portfolio easily to platforms like Vercel, Netlify, or GitHub Pages. Follow their respective deployment instructions.
 
 ## 🤝 Feedbak and Suggestion
 
 If you have suggestions or feedback, feel free to reach out to me directly.
 
 
-Thank you for visiting my portfolio! 🌟
+Thank you for visiting my portfolio! Let's create something amazing together! 🌟
 ```
