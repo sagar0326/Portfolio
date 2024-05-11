@@ -17,27 +17,7 @@ Welcome to my vibrant portfolio, where creativity meets functionality.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Next.js](https://nextjs.org/)
 
----
 
-## 📞 Contact
-
-For inquiries or collaboration opportunities, reach me via:
-- Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com) 📧
-- LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ ) 🌐
-
-
-### ✨ Features
-
-- **Responsive Design**: Seamlessly adapts to various devices.
-- **Project Showcase**: Displays my projects with descriptions and links.
-- **Skills Section**: Highlights my skills and proficiencies.
-- **Contact Information**: Provides ways to connect with me.
-
-## 🛠️ Technologies Used
-
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Next.js](https://nextjs.org/)
 
 ## 📦 Usage
 
@@ -52,7 +32,14 @@ For inquiries or collaboration opportunities, reach me via:
    ```
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+   
+---
 
+## 📞 Contact
+
+For inquiries or collaboration opportunities, reach me via:
+- Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com) 📧
+- LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ ) 🌐
 
 ## 🤝 Feedbak and Suggestion
 
