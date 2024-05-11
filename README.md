@@ -69,20 +69,8 @@ Contributions are currently not open to the public. If you have suggestions or f
 ## 📞 Contact
 
 For inquiries or collaboration opportunities, reach me via:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [your.email@example.com](mailto:sagarjha2004@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ )
 
 Thank you for visiting my portfolio! 🌟
 ```
-
-This version includes:
-
-- An aligned center layout for the header with your portfolio logo.
-- Some emojis for visual appeal and clarity.
-- Badges for indicating the status of your portfolio.
-- Enhanced formatting for sections to make them stand out.
-- Links are emphasized using bold text.
-- A touch of color to make the badges more vibrant.
-  
-You can adjust the URLs, names, and content to fit your specific portfolio.
