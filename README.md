@@ -20,11 +20,17 @@ Welcome to my vibrant portfolio, where creativity meets functionality.
 ---
 
 
+
+## 📞 Contact
+
+For inquiries or collaboration opportunities, reach me via:
+- Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com) 📧
+- LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ ) 🌐
 ## Contact 📞
 
 For inquiries, collaborations, or just to say hi, you can reach me via:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Email: [your.email@example.com](mailto:your.email@example.com) 📧
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername) 🌐
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 Thank you for visiting my portfolio! Let's create something amazing together! 🌟
@@ -69,8 +75,8 @@ Contributions are currently not open to the public. If you have suggestions or f
 ## 📞 Contact
 
 For inquiries or collaboration opportunities, reach me via:
-- Email: [your.email@example.com](mailto:sagarjha2004@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ )
+- Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com)
+- LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ )
 
 Thank you for visiting my portfolio! 🌟
 ```
