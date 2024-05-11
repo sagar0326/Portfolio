@@ -68,15 +68,10 @@ Thank you for visiting my portfolio! Let's create something amazing together! �
 
 Deploy this portfolio easily to platforms like Vercel, Netlify, or GitHub Pages. Follow their respective deployment instructions.
 
-## 🤝 Contributions
+## 🤝 Feedbak and Suggestion
 
-Contributions are currently not open to the public. If you have suggestions or feedback, feel free to reach out to me directly.
+If you have suggestions or feedback, feel free to reach out to me directly.
 
-## 📞 Contact
-
-For inquiries or collaboration opportunities, reach me via:
-- Email: [Sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com)
-- LinkedIn: [Sagar kumar jha](https://www.linkedin.com/in/sagar-kumar-jha-237405240/ )
 
 Thank you for visiting my portfolio! 🌟
 ```
