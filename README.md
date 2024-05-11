@@ -46,5 +46,6 @@ For inquiries or collaboration opportunities, reach me via:
 If you have suggestions or feedback, feel free to reach out to me directly.
 
 
+
 Thank you for visiting my portfolio! Let's create something amazing together! 🌟
-```
+
